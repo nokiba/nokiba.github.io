@@ -37,7 +37,7 @@
 
 # Reload the browser automatically whenever files change
 # configure :development do
-#   activate :livereload
+   activate :livereload
 # end
 
 # Methods defined in the helpers block are available in templates
@@ -76,6 +76,6 @@ end
 # ¡‰ñ‚Í gh-pages ‚ğg—p‚·‚é‚Ì‚Å branch ‚É 'gh-pages' ‚ğİ’è‚·‚é
 activate :deploy do |deploy|
   deploy.build_before = true
-  deploy.method = :git
+  deploy.deploy_method = :git
   deploy.branch = 'master'
 end
