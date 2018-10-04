@@ -1,5 +1,106 @@
 -
  view: ○
+ title: ライフハック勉強会＠名古屋情報整理編
+ url: https://kokucheese.com/event/index/539333/
+ description: テーマはScrapboxです。
+ date: 2018年11月03日
+ time: 14:50-16:50
+ open: 14:30開場
+ place: 久屋大通ナユタビルディング 8階イベントスペース
+ place_url: https://www.instabase.jp/space/2705
+ address: 愛知県 名古屋市中区 丸の内 3-17-24 NAYUTA BLD.
+ price: 4,000円(税込)
+ capacity: 25
+-
+ view: ○
+ title: 第９回　ライフハック横浜
+ url: https://kokucheese.com/event/index/539340/
+ date: 2018年10月27日
+ time: 17:00-19:00
+ open: 17:00開場
+ place: ルーズカフェ
+ place_url: https://s.tabelog.com/kanagawa/A1401/A140101/14003371/
+ address: 神奈川県横浜市西区 楠町１８−６ 横浜西口オーケービル1F
+ price: 5,000円(税込)
+ capacity: 11
+-
+ view: ○
+ title: 第1回CHANGES主催セミナー@東京
+ url: https://changes.jp/post_lp/20181006_changes_seminar_1
+ date: 2018年10月06日
+ time: 14:00-18:00
+ open: 13:30開場
+ place: 中央区産業会館（東日本橋駅 徒歩4分）
+ place_url: http://www.chuo-sangyo.jp/access/access.html
+ address: 東京都中央区東日本橋2-22-4
+ price: 4,000円(税込)
+ capacity: 50
+-
+ view: ×
+ title: 第5回心理ハックセミナー「不安を味方につけて先送りを防ぐ」
+ url: https://kokucheese.com/event/index/529450/
+ date: 2018年09月29日
+ time: 15:30-17:30
+ open: 15:00開場
+ place: 大橋会館（グループ教室）
+ place_url: http://www.neclivex.co.jp/ohashi/school/access.html
+ address: 東京都目黒区東山三丁目7番11号
+ price: 5,000円(税込)
+ capacity: 10
+-
+ view: ×
+ title: 最強＆最速な自分で仕事をする！ 「フォースな心理学講座」02
+ url: https://kokucheese.com/event/index/532311/
+ description: 倉園佳三さんとの共催セミナーです。
+ date: 2018年09月08日
+ time: 17:50-19:50
+ open: 17:30開場
+ place: みんなの会議室２-１ 渋谷宮益坂
+ place_url: http://minnanokaigishitsu.com/
+ address: 東京都渋谷区渋谷１丁目８−３ ＴＯＣ第１ビル2階
+ price: 5,000円(税込)
+ capacity: 13
+-
+ view: ×
+ title: 『Scrapbox情報整理術』出版記念セミナー
+ url: https://kokucheese.com/event/index/531714/
+ description: 倉下忠憲さんをお招きします。
+ date: 2018年08月26日
+ time: 16:00-18:00
+ open: 15:40開場
+ place: みんなの会議室　代々木第１
+ place_url: https://goo.gl/maps/iocGMpsfLA82
+ address: 東京都渋谷区千駄ヶ谷5丁目14番地10号 新宿明治通りビル6階
+ price: 5,000円(税込)
+ capacity: 20
+-
+ view: ×
+ title: 不安を味方につけるための心理学入門 第５回【先送りしない】
+ url: https://kokucheese.com/event/index/529450/
+ description: 第5回のテーマは「先送り」です。
+ date: 2018年08月25日
+ time: 15:00-17:30
+ open: 14:30開場
+ place: 大橋会館（グループ教室）
+ place_url: http://www.neclivex.co.jp/ohashi/school/access.html
+ address: 東京都目黒区東山三丁目7番11号
+ price: 5,000円(税込)
+ capacity: 10
+-
+ view: ×
+ title: 第８回　ライフハック横浜
+ url: https://kokucheese.com/event/index/530017/
+ description: 第8回のテーマは「ブログ」です。
+ date: 2018年08月19日
+ time: 17:00-19:00
+ open: 17:00開場
+ place: ルーズカフェ
+ place_url: https://s.tabelog.com/kanagawa/A1401/A140101/14003371/
+ address: 神奈川県横浜市西区 楠町１８−６ 横浜西口オーケービル1F
+ price: 5,000円(税込)
+ capacity: 11
+-
+ view: ×
  title: 最強＆最速な自分で仕事をする！ 「フォースな心理学講座」
  url: https://kokucheese.com/event/index/528282/
  description: 倉園佳三さんとの共催セミナーです。
@@ -12,7 +113,7 @@
  price: 5,000円(税込)
  capacity: 20
 -
- view: ○
+ view: ×
  title: 不安を味方につけるためのタスク管理【沖縄編】
  url: https://kokucheese.com/event/index/526439/
  date: 2018年07月28日
